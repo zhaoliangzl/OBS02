@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="springcloud_eurake_server" />
+        <module name="springcloud_feign_service_a" />
+        <module name="springcloud_feign_service_admin" />
+        <module name="springcloud_feign_service_admin1" />
+        <module name="springcloud_feign_service_b" />
+        <module name="springcloud_feign_service_b (1)" />
+        <module name="springcloud_feign_service_b (2)" />
+        <module name="springcloud_feign_service_download" />
+        <module name="springcloud_feign_service_task" />
+        <module name="springcloud_feign_service_upload" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="springcloud_eurake_server" target="1.8" />
+      <module name="springcloud_feign_service_a" target="1.8" />
+      <module name="springcloud_feign_service_admin" target="1.8" />
+      <module name="springcloud_feign_service_admin1" target="1.8" />
+      <module name="springcloud_feign_service_b" target="1.8" />
+      <module name="springcloud_feign_service_b (1)" target="1.8" />
+      <module name="springcloud_feign_service_b (2)" target="1.8" />
+      <module name="springcloud_feign_service_download" target="1.8" />
+      <module name="springcloud_feign_service_task" target="1.8" />
+      <module name="springcloud_feign_service_upload" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

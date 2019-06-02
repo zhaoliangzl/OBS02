@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" addBOMForNewFiles="with NO BOM">
+    <file url="file://$PROJECT_DIR$/admin" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/admin1" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/consumer" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/download" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/eurake-server" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/provider" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/provider1" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/provider2" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/task" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/upload1" charset="UTF-8" />
+  </component>
+</project>

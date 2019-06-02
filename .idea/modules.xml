@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/OBS02.iml" filepath="$PROJECT_DIR$/.idea/OBS02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eurake-server/springcloud_eurake_server.iml" filepath="$PROJECT_DIR$/eurake-server/springcloud_eurake_server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/consumer/springcloud_feign_service_a.iml" filepath="$PROJECT_DIR$/consumer/springcloud_feign_service_a.iml" />
+      <module fileurl="file://$PROJECT_DIR$/admin/springcloud_feign_service_admin.iml" filepath="$PROJECT_DIR$/admin/springcloud_feign_service_admin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/admin1/springcloud_feign_service_admin1.iml" filepath="$PROJECT_DIR$/admin1/springcloud_feign_service_admin1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/provider/springcloud_feign_service_b.iml" filepath="$PROJECT_DIR$/provider/springcloud_feign_service_b.iml" />
+      <module fileurl="file://$PROJECT_DIR$/provider1/springcloud_feign_service_b (1).iml" filepath="$PROJECT_DIR$/provider1/springcloud_feign_service_b (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/provider2/springcloud_feign_service_b (2).iml" filepath="$PROJECT_DIR$/provider2/springcloud_feign_service_b (2).iml" />
+      <module fileurl="file://$PROJECT_DIR$/download/springcloud_feign_service_download.iml" filepath="$PROJECT_DIR$/download/springcloud_feign_service_download.iml" />
+      <module fileurl="file://$PROJECT_DIR$/task/springcloud_feign_service_task.iml" filepath="$PROJECT_DIR$/task/springcloud_feign_service_task.iml" />
+      <module fileurl="file://$PROJECT_DIR$/upload1/springcloud_feign_service_upload.iml" filepath="$PROJECT_DIR$/upload1/springcloud_feign_service_upload.iml" />
+    </modules>
+  </component>
+</project>
